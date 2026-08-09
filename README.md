@@ -132,7 +132,7 @@ Running the notebook generates 8 figures:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/physics-informed-ml.git
+git clone https://github.com/suryanshraj1024-star/physics-informed-ml.git
 cd physics-informed-ml
 
 # Install dependencies
